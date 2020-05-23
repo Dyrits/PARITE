@@ -9,8 +9,5 @@ Afin de lancer l'analyse, :
 ### Related course
 OPENCLASSROOMS | PERFECTIONNEZ-VOUS EN PYTHON
 
-### Details | Comments
-Projet effectué pour le cours [Perfectionnez-vous en Python](https://github.com/OpenClassrooms-Student-Center/perfectionnez-vous-en-python/blob/master).
-
 ### Status
 Finished
